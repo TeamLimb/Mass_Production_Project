@@ -13,7 +13,7 @@
  *   created 2017 / 11 / 07
  *   by Dongmin Kim <Ethan> ( ARTIT ROBOTICS )
  *   This code is in the Github domain.
- *   http://.../
+ *   https://github.com/ARTITROBOTICS/OpenArms_Low-cost_Mass-supply_Project/blob/master/mk.3_system/mk.3_system.ino
  *   
  */
 #include <Servo.h>
