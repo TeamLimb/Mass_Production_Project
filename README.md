@@ -80,3 +80,6 @@ Please contact us!
 Ethan Kim : 4artit@gmail.com (System Architecture Design, Software & Hardware Design and Develop)
 
 WonJae Ji : jiwi1005@gmail.com (Product Design,  Mechanical Mechanism Design)
+
+## GNU General Public License v3.0
+Get more information about [license](https://github.com/ARTITROBOTICS/OpenArms_Low-cost_Mass-supply_Project/blob/master/LICENSE)
