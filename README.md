@@ -45,11 +45,19 @@ Not ready yet. We will share as soon as possible.
 
 
 
+## - Directory
+| Sources        | Explanation                           |
+| -------------- | ------------------------------------- |
+| mk.3_system    | MK.3 main system .ino code directory. |
+| motor_testMK.3 | motor test code directory.            |
+
+
+
 ## - Installation
 
 **Step 1** : git clone this repository.
 
-**Step 2** : Upload Arduino code in Bluno Nano.
+**Step 2** : Upload Arduino mk.3_system code in Bluno Nano.
 
 Finished !!
 
