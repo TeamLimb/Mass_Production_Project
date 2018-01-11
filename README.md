@@ -2,6 +2,10 @@
 
 ##  - Purpose ##
 
+
+![logo1](./images/LOGO_openarms.png)
+![logo2](./images/probono_logo.png)
+
 This is about about OpenArms MK.3(Prosthetic Arm using EMG Sensor).
 
 Our team(ARTIT) always try to make prosthetic arms for everyone can make low cost and easy. This is our 3rd model. We received a Grand prize in Probono Mentoring Final Contest hosted by KFICT(The Korea Federation of ICT Organizations).
@@ -18,6 +22,7 @@ Our team(ARTIT) always try to make prosthetic arms for everyone can make low cos
 
 
 ![image1](./images/total_hand.jpg)
+![image2](./images/product.jpg)
 
 
 
