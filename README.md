@@ -4,6 +4,7 @@
 
 
 <img src="./images/LOGO_openarms.png" width="200" height="200" />
+
 ![logo2](./images/probono_logo.png)
 
 This is about about OpenArms MK.3(Prosthetic Arm using EMG Sensor).
