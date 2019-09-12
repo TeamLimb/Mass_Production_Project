@@ -5,7 +5,7 @@
 
 <img src="./images/LOGO_openarms.png" width="200" height="200" />
 
-![image2](./images/product.jpg)
+![image1](./images/total_hand.jpg)
 
 
 
@@ -23,8 +23,6 @@ Our team(Team LIMB) always try to make prosthetic arms for everyone can make low
 - Used Bluno NANO for Bluetooth Application (https://github.com/DFRobot/BlunoBasicDemo - you can make your own android app for this prosthetic arm using this sample app)
 
 
-
-![image1](./images/total_hand.jpg)
 
 
 
