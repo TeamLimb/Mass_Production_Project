@@ -5,11 +5,13 @@
 
 <img src="./images/LOGO_openarms.png" width="200" height="200" />
 
-![logo2](./images/probono_logo.png)
+![image2](./images/product.jpg)
 
-This is about OpenArms MK.3(Prosthetic Arm using EMG Sensor).
 
-Our team(ARTIT) always try to make prosthetic arms for everyone can make low cost and easy. This is our 3rd model. We received a Grand prize in Probono Mentoring Final Contest hosted by KFICT(The Korea Federation of ICT Organizations).
+
+**OPENARMS MK.3**
+
+Our team(Team LIMB) always try to make prosthetic arms for everyone can make low cost and easy. This is our 3rd model. We received a Grand prize in Probono Mentoring Final Contest hosted by KFICT(The Korea Federation of ICT Organizations).
 
 ## - Features ##
 
@@ -23,7 +25,7 @@ Our team(ARTIT) always try to make prosthetic arms for everyone can make low cos
 
 
 ![image1](./images/total_hand.jpg)
-![image2](./images/product.jpg)
+
 
 
 
@@ -45,41 +47,27 @@ Our team(ARTIT) always try to make prosthetic arms for everyone can make low cos
 
 
 
-## - Circuit Design
-
-Not ready yet. We will share as soon as possible.
-
-
-
 ## - Directory
-| Sources        | Explanation                           |
-| -------------- | ------------------------------------- |
-| mk.3_system    | MK.3 main system .ino code directory. |
-| motor_testMK.3 | motor test code directory.            |
+| Sources              | Explanation                           |
+| -------------------- | ------------------------------------- |
+| `control_system.ino` | MK.3 main system .ino code directory. |
+| `motor_test.ino`     | motor test code directory.            |
 
 
 
 ## - Installation
 
-**Step 1** : git clone this repository.
+**Step 1** : Clone this repository.
 
-**Step 2** : Upload Arduino mk.3_system code in Bluno Nano.
+**Step 2** : Contact us and get design asset. You should design your own PCB board. There is no available circuit design now.
 
-Finished !!
-
-
-
-## - Next
-
-* Make own PCB
-* Use dry EMG sensor
-* Treat noise problem
+**Step 3** : Assemble all parts and upload `control_system` code in Bluno Nano.
 
 
 
-## Contact to ARTIT !
+## Contact to Team LIMB
 
-Any questions about our project are welcome!!
+Any questions and contribution about our project are welcome!
 
 Please contact us!
 
@@ -87,5 +75,6 @@ Ethan Kim : 4artit@gmail.com (System Architecture Design, Software & Hardware De
 
 WonJae Ji : jiwi1005@gmail.com (Product Design,  Mechanical Mechanism Design)
 
-## GNU General Public License v3.0
-Get more information about [license](https://github.com/ARTITROBOTICS/OpenArms_Low-cost_Mass-supply_Project/blob/master/LICENSE)
+
+
+![logo2](./images/probono_logo.png)
